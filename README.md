@@ -1,2 +1,1 @@
-# Pagina_Beta
-Repositorio en el que se desarrolla el proyecto pagina web
+Aqui es donde se apuntaran todos los requisitos basicos del proyecto, contenido, idea, y progreso de cada uno.
