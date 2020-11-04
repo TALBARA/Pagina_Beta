@@ -42,10 +42,12 @@ nav{
 
 .header_log{
     float: right;
+    margin-right: 1vw;
 }
 
 .header_log--link{
     font-size: 13px;
+    margin-right: 2vw;
 }
 
 .header_nav--size{
