@@ -27,51 +27,113 @@ ul{
 
 nav{
     padding: 1%;
-    border:solid black 1px;
-}
-
-.header_nav--link, .header_nav--search,.header_log--link{
-    display: inline-block;
-}
-
-.header_nav--link{
-    padding-left: 3%;
-    letter-spacing: 1px;
-    font-weight: bold;
+    border:solid black 0.5vw;
 }
 
 .header_log{
     float: right;
-    margin-right: 1vw;
+    margin-right: 0-5vw;
+    
 }
-
 .header_log--link{
-    font-size: 13px;
-    margin-right: 2vw;
+    font-size: 0.9vw;
+    margin-right: 0.7vw;
 }
-
-.header_nav--size{
-    width: 250px;
-    height: 35px;
+.ES {
+    width: 1.4vw;
+    height: 0.8vw;
+    margin-right: 0.5vw;
+}
+.ubica {
+    width: 0.9vw;
+    height: 0.9vw;
+    margin-right: 0.2vw;
+}
+.hlp {
+    width: 0.7vw;
+    height: 1.02vw;
+    margin-right: 0.1vw;
+}
+.email {
+    width: 1.1vw;
+    height: 0.94vw;
+    margin-right: 0.1vw;
+}
+.info {
+    width: 1vw;
+    height: 0.9vw;
+}
+.cuenta {
+    width: 0.9vw;
+    height: 0.9vw;
+    margin-right: 0.2vw;
+}
+.cesta {
+    width: 1.2vw;
+    height: 0.9vw;
+    margin-right: 0.2vw;
 }
 
 .header_nav{
-    margin-top: 50px;
+    margin-top: 4vw;
     display: flex;
+    margin-right: 3vw;
+    margin-left: 8vw;
+    font-size: 1vw;
 }
-
+.header_nav--link, .header_nav--search,.header_log--link{
+    display: inline-block;
+}
+.header_nav--link{
+    padding-left: 2vw;
+    letter-spacing: 0.5vw;
+    font-weight: bold;
+    margin-right: 1vw;
+}
 .header_nav--search{
     float: right;
-   
+    height: 1.5vw;
+}
+.header_nav--search ::placeholder {
+    font-size: 1vw;
+}
+.header_nav--size {
+    margin-top: -0.5vw;
+    width: 15vw;
+    height: 2vw;
+}
+.lupa {
+    float: right;
+    width: 2vw;
+    height: 2vw;
+    margin-top: -0.5vw;
+    margin-right: -17.5vw;
+}
+.log {
+    width: 5vw;
+    height: 5vw;
+    float: left;
+    margin-top: -3.9vw;
+    margin-left: -6vw;
 }
 
 .main_nav{
     text-align: center;
     font-size: 13px;
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     padding:0.5%;
 }
+.icon-l {
+    width: 3vw;
+    height: 3vw;
+}
+.icon-r {
+    width: 3vw;
+    width: 3vw;
+}
+
+
 
 .section_img--1{
     float: left;
